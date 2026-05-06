@@ -1,0 +1,12 @@
+# My Gaps — May 2026
+## မသိသေးတာတွေ
+- Node.js event loop phases ဘာတွေလဲ မသေချာဘူး
+- System design ကို whiteboard မှာ ဘယ်လို structure ချရမလဲ မသိဘူး
+- Redis ကို သုံးဖူးတယ် ဒါပေမယ့် caching patterns မသိဘူး
+- Kafka ဆိုတာ ဘာလဲ တစ်ခါမှ မသုံးဖူးဘူး
+- AWS ကို deploy မလုပ်ဖူးဘူး VPC subnet မသိဘူး
+- Docker သုံးတတ်တယ် Kubernetes တစ်ခါမှ မကိုင်ဖူးဘူး
+- Database sharding ဆိုတာ concept သိတယ် implement မလုပ်ဖူးဘူး
+- Load testing ဘယ်တုန်းကမှ မလုပ်ဖူးဘူး
+- gRPC ဆိုတာ ကြားဖူးတယ် မသိဘူး
+- ADR ဆိုတာ ဘာလဲ မသိဘူး
